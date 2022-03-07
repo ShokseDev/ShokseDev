@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @ShokseDev
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate in website development
-- 📫 How to reach me shokse42@gmail.com
-
-<!---
-ShokseDev/ShokseDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello everyone, my name is Daniil and I am engaged in IOS development, so far I am only at the beginning of my journey, but I am improving every day. I love my job very much and I am ready for any tasks and difficulties. If you want, you can contact me at: aleshchenko.daniil@yandex.com
