@@ -1,1 +1,1 @@
-Hello everyone, my name is Daniel and I am a mobile developer. Now I am in the learning phase and I am going to post repositories here with my training projects. I plan to focus on studying IOS and Android development, in the future I'm going to master cross-platform solutions. If you want to contact me, then write to aleshchenko.daniil@yandex.com
+Senior Hello World Developer
